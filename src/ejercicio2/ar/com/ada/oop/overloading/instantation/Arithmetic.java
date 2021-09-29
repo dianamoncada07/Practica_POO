@@ -1,4 +1,4 @@
-package ar.com.ada.oop.overloading.instantation;
+package src.ejercicio2.ar.com.ada.oop.overloading.instantation;
 
 public class Arithmetic {
     public int sum(int a, int b) {
