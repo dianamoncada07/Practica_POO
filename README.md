@@ -1,1 +1,2 @@
-# Practica_POO
+Repositorio para practica de POO
+
