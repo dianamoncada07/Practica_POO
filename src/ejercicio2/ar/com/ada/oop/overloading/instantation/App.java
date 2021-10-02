@@ -1,5 +1,4 @@
-package src.ejercicio2;
-import ar.com.ada.oop.overloading.instantation.Arithmetic;
+package src.ejercicio2.ar.com.ada.oop.overloading.instantation;
 import ar.com.ada.oop.overloading.instantation.Person;
 
 import java.util.Scanner;
